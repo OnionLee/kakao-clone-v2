@@ -1,0 +1,17 @@
+.nav {
+  background-color: aliceblue;
+  /*위치 고정*/
+  position: fixed;
+  width: 100%;
+  padding: 20px 50px;
+  left: 0px;
+  bottom: 0px;
+  /*쪼매난 라인 그리기*/
+  border-top: 1px solid #f7f7f7;
+}
+
+.nav .nav__list {
+  /*정렬 하려면 필요함*/
+  display: flex;
+  justify-content: space-between;
+}
