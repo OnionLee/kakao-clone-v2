@@ -3,6 +3,7 @@
 @import "status-bar.css";
 @import "header.css";
 @import "nav-bar.css";
+@import "friend.css";
 
 * {
   /* padding에 따라 box가 커지는 것을 방지*/
