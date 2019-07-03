@@ -1,0 +1,16 @@
+.friends .friends__plus {
+  /*내부공간*/
+  padding: 20px 0px;
+  /*테두리*/
+  border-top: 1px solid #f7f7f7;
+  border-bottom: 1px solid #f7f7f7;
+  /*외부공간*/
+  margin: 20px 0px;
+}
+
+.friends__plus .friends__title,
+.friends__list .friends__title {
+  font-size: 14px;
+  opacity: 0.6;
+  margin-bottom: 10px;
+}
